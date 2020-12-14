@@ -15,6 +15,7 @@
 #include <nano-caf/core/actor/weak_actor_ptr.h>
 #include <cstdint>
 #include <memory>
+#include <functional>
 
 NANO_CAF_NS_BEGIN
 
